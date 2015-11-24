@@ -1,6 +1,4 @@
 # WPFThreads
-Search for most used word in text files using WPF and TPL
-
 This is a sample project to show how to use WPF and Task Parallel Library.
 
 Select a target folder, set the minimum word length, and the program will use multiple threads to look for the top 100 most used words in the text files inside the folder.
